@@ -1,4 +1,7 @@
-# Actividad explicación del algoritmo merge sort
+# Actividad explicación de los algoritmos recursivos de ordenamiento 
+
+-John Faber Navia 
+- Sebastián Ruiz 
 
 ### Introducción
 
