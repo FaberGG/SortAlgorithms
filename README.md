@@ -1,6 +1,7 @@
 # Actividad explicación de los algoritmos recursivos de ordenamiento 
 
--John Faber Navia 
+### Integrantes:
+- John Faber Navia 
 - Sebastián Ruiz 
 
 ### Introducción
